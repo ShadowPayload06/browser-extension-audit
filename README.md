@@ -29,6 +29,5 @@ browser-extension-audit/ ├── screenshots/ │   └── chrome_extension
 ├── report_malicious_extensions.txt └── README.md
 
 🔐 Privacy Compliance
-- All sensitive data redacted (e.g., IPs, login info).  
 - Screenshot referenced for audit trail completeness.  
 - Documentation structured for reproducibility and review.
