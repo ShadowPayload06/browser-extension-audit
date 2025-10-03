@@ -1,0 +1,13 @@
+Browser Extension Audit  
+ -Open Extension Manager
+  
+Browser: Google Chrome  
+Extension Manager Path: chrome://extensions/  
+Extensions Found:
+  1. AdGuard AdBlocker
+  2. Google Docs Offline
+  3. McAfee® WebAdvisor
+  4. Substital: Add subtitles
+  5. Turbo VPN
+
+Screenshot: chrome_extensions_list.png

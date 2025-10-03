@@ -1,0 +1,34 @@
+Browser Extension Audit  
+- How to Safely Install Browser Extensions
+  
+Browser: Google Chrome  
+Objective: Understand best practices for safe extension installation.
+
+Safe Installation Guidelines:
+
+1. Use Official Sources Only  
+   - Install extensions from trusted platforms like the Chrome Web Store.  
+   - Avoid third-party sites or direct .crx downloads unless verified.
+
+2. Check Developer Reputation  
+   - Prefer extensions from known developers or companies.  
+   - Avoid vague or unfamiliar publisher names.
+
+3. Read Reviews and Ratings  
+   - Scan user feedback for issues like data leaks, ads, or performance drops.  
+   - Prioritize extensions with consistent positive reviews.
+
+4. Review Permissions Before Installing  
+   - Check what data the extension can access (e.g., tabs, clipboard, browsing history).  
+   - Avoid extensions requesting excessive or unrelated permissions.
+
+5. Verify Update Frequency  
+   - Choose extensions that are actively maintained.  
+   - Avoid those not updated for long periods.
+
+6. Limit the Number of Extensions  
+   - Install only what’s necessary to reduce attack surface and improve performance.
+
+7. Use Antivirus or Browser Security Tools  
+   - Enable browser warnings for suspicious extensions.  
+   - Use tools like McAfee WebAdvisor or Chrome’s built-in safety checks.

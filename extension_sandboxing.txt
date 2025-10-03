@@ -1,0 +1,22 @@
+Browser Extension Audit  
+ - What Is Extension Sandboxing?
+
+Browser: Google Chrome  
+Objective: Understand the concept of sandboxing in browser extensions.
+
+Definition:
+Extension sandboxing is a security technique used by browsers to isolate each extension in a restricted environment. This prevents extensions from accessing sensitive system resources or interfering with other extensions.
+
+Key Features:
+- Isolation: Each extension runs in its own sandbox, separate from browser core and other extensions.
+- Limited Access: Extensions can only access data and APIs they’ve been explicitly granted permission for.
+- Crash Containment: Misbehaving extensions are contained and do not affect browser stability.
+- Security Boundaries: Prevents unauthorized access to system files, passwords, or private data.
+
+Importance:
+- Protects users from malicious extensions that attempt to steal data or inject ads.
+- Enforces least privilege by limiting extension capabilities.
+- Improves browser performance and reliability.
+
+Notes:
+Sandboxing is a core part of Chrome’s extension architecture and is critical for maintaining user privacy and system integrity.

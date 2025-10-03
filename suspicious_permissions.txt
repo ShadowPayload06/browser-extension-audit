@@ -1,0 +1,30 @@
+Day 7 Task 7 – Browser Extension Audit  
+ - What Permissions Should Raise Suspicion?
+
+Browser: Google Chrome  
+Objective: Identify high-risk extension permissions that may compromise privacy or security.
+
+Suspicious Permissions:
+
+1. “Read and change all your data on the websites you visit”  
+   - Risk: Can monitor login forms, capture credentials, inject ads, or track browsing behavior.
+
+2. “Access your clipboard”  
+   - Risk: May read copied passwords, tokens, or sensitive text.
+
+3. “Capture content of your screen”  
+   - Risk: Can record sensitive information including passwords, messages, or private documents.
+
+4. “Access your tabs and browsing activity”  
+   - Risk: Can track which sites you visit, how long you stay, and what you click.
+
+5. “Manage your downloads”  
+   - Risk: Can download malicious files or interfere with legitimate downloads.
+
+6. “Communicate with cooperating native applications”  
+   - Risk: May bridge to system-level apps, increasing attack surface and bypassing browser sandboxing.
+
+Recommendations:
+- Always review permissions before installing any extension.
+- Avoid extensions that request more access than necessary.
+- Remove extensions that ask for sensitive permissions without a clear, justified purpose.

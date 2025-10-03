@@ -1,0 +1,29 @@
+Browser Extension Audit  
+ - Review Installed Extensions Carefully
+
+Browser: Google Chrome  
+Objective: Assess installed extensions for usage, trustworthiness, and potential risks.
+
+Extensions Reviewed:
+
+1. AdGuard AdBlocker
+   - Status: Actively used  
+   - Notes: Trusted ad blocker with strong reviews and minimal permissions. No action needed.
+
+2. Google Docs Offline  
+   - Status: Useful  
+   - Notes: Official Google extension. Enables offline editing of Docs, Sheets, and Slides. Safe to keep.
+
+3. McAfee® WebAdvisor  
+   - Status: Review needed  
+   - Notes: Mixed reviews. May duplicate existing antivirus functions and impact performance. Will assess permissions in next step.
+
+4. Substital: Add subtitles  
+   - Status: Optional  
+   - Notes: Niche use case. Useful for subtitle injection on streaming platforms. Will decide based on usage frequency.
+
+5. Turbo VPN  
+   - Status: Suspicious  
+   - Notes: Free VPNs often log user data and inject ads. Requires permission and review check. Likely candidate for removal.
+
+Screenshot: chrome_extensions_list.png

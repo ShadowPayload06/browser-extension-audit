@@ -1,0 +1,37 @@
+Browser Extension Audit  
+How to Update Extensions Securely
+
+Browser: Google Chrome  
+Objective: Ensure browser extensions are updated safely without compromising security.
+
+Safe Update Practices:
+
+1. Use Built-in Browser Update Mechanism  
+   - Chrome auto-updates extensions periodically.  
+   - To manually update:  
+     - Go to chrome://extensions/  
+     - Enable Developer Mode (top right)  
+     - Click the Update button
+
+2. Avoid Manual .crx Downloads  
+   - Do not install or update extensions via third-party .crx files unless verified.  
+   - These can bypass Chrome’s security checks and introduce malware.
+
+3. Verify Extension Source Before Updating  
+   - Confirm the extension is still published by the original developer.  
+   - Watch out for impersonation or rebranding scams.
+
+4. Review Permissions After Update  
+   - Some updates may request new permissions.  
+   - Chrome will notify you—review carefully before accepting.
+
+5. Check Changelog or Update Notes  
+   - Visit the extension’s Chrome Web Store page.  
+   - Review version history or changelog to understand what changed.
+
+6. Use Antivirus or Browser Security Tools  
+   - Scan updated extensions for suspicious behavior.  
+   - Enable browser warnings for risky updates.
+
+Notes:
+Regular updates improve security and performance, but always validate source and permissions before accepting changes.

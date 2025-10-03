@@ -1,0 +1,35 @@
+Browser Extension Audit  
+- How to Report Malicious Extensions
+
+Browser: Google Chrome  
+Objective: Learn how to report suspicious or malicious browser extensions.
+
+Reporting Process:
+
+1. Identify the Extension  
+   - Go to chrome://extensions/  
+   - Locate the suspicious extension and click “Details”
+
+2. Visit the Extension’s Chrome Web Store Page  
+   - Scroll down to the bottom of the page  
+   - Click “Report abuse”
+
+3. Fill Out the Abuse Report Form  
+   - Select the appropriate reason (e.g., “Malware”, “Steals data”, “Misleading claims”)  
+   - Provide a clear description of the issue  
+   - Attach screenshots if available
+
+4. Submit the Report  
+   - Google’s security team will review the submission  
+   - You may not receive a direct response, but action may be taken
+
+5. Optional: Notify Your Organization or IT Team  
+   - If using a work or school device, report the extension to your IT administrator  
+   - Helps prevent spread across managed devices
+
+6. Remove the Extension Immediately  
+   - Click “Remove” in chrome://extensions/  
+   - Clear browser cache and restart Chrome
+
+Notes:
+Reporting malicious extensions helps protect other users and improves browser security. Always document suspicious behavior and validate permissions before installing.
